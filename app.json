@@ -1,5 +1,4 @@
 {
-{
     "SMOOCH_APP_TOKEN": {
       "description": "Your Smooch app token which is used to initialize the web widget.",
       "required": true
